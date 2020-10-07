@@ -1,0 +1,59 @@
+  
+      body {
+          background: none;
+          background-image: url('./img/back12.jpg');
+          color: black;
+          background-size: auto;
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+
+        
+      }
+      #output1{
+        color: darkblue;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 75px;
+      }
+      .row{
+        background: transparent;
+      }
+      .navbar {
+        background-color: #1a1a1a;
+      }
+      .navbar-brand{
+        color:#61DAFB;
+      }
+      #t1 {
+        text-align: right;
+        color: blue;
+      }
+      #t2 {
+        color: red;
+      }
+      .cal21{
+        text-align: center;
+        color: royalblue;
+        background: seashell;
+      }
+      .cal22{
+        text-align: center;
+        color: black;
+      }
+      .fa{
+        color: whitesmoke;
+      }
+      .fa-phone{
+        color: black;
+      }
+      .fa-envelope{
+        color: black;
+      }
+      .fa-fax{
+        color: black;
+      }
+      .cd1{
+        border: black solid 2px;
+      }
+
+
+   
